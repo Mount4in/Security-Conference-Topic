@@ -64,11 +64,18 @@
    - [基于流量分析的API安全实践](https://github.com/Mount4in/Security-Conference-Topic/blob/main/%E7%AC%AC%E5%85%AB%E6%9C%9F%E5%AE%89%E5%85%A8%E8%8C%83%E5%84%BF%E6%B2%99%E9%BE%99%E3%80%8C%E7%94%B2%E6%96%B9%E5%AE%89%E5%85%A8%E6%94%BB%E9%98%B2%E5%BB%BA%E8%AE%BE%E3%80%8D/%E5%9F%BA%E4%BA%8E%E6%B5%81%E9%87%8F%E5%88%86%E6%9E%90%E7%9A%84API%E5%AE%89%E5%85%A8%E5%AE%9E%E8%B7%B5.pdf)
    - [蓝军视角下的逻辑漏洞利用和治理](https://github.com/Mount4in/Security-Conference-Topic/blob/main/%E7%AC%AC%E5%85%AB%E6%9C%9F%E5%AE%89%E5%85%A8%E8%8C%83%E5%84%BF%E6%B2%99%E9%BE%99%E3%80%8C%E7%94%B2%E6%96%B9%E5%AE%89%E5%85%A8%E6%94%BB%E9%98%B2%E5%BB%BA%E8%AE%BE%E3%80%8D/%E8%93%9D%E5%86%9B%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E%E5%88%A9%E7%94%A8%E5%92%8C%E6%B2%BB%E7%90%86.pdf)
    - [生产环境的 Kubernetes 攻击与防护](https://github.com/Mount4in/Security-Conference-Topic/blob/main/%E7%AC%AC%E5%85%AB%E6%9C%9F%E5%AE%89%E5%85%A8%E8%8C%83%E5%84%BF%E6%B2%99%E9%BE%99%E3%80%8C%E7%94%B2%E6%96%B9%E5%AE%89%E5%85%A8%E6%94%BB%E9%98%B2%E5%BB%BA%E8%AE%BE%E3%80%8D/%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E7%9A%84%20Kubernetes%20%E6%94%BB%E5%87%BB%E4%B8%8E%E9%98%B2%E6%8A%A4.pdf) 
-   -[小米企业蓝军与安全建设.pdf](https://github.com/Mount4in/Security-Conference-Topic/blob/main/%E7%AC%AC%E5%85%AB%E6%9C%9F%E5%AE%89%E5%85%A8%E8%8C%83%E5%84%BF%E6%B2%99%E9%BE%99%E3%80%8C%E7%94%B2%E6%96%B9%E5%AE%89%E5%85%A8%E6%94%BB%E9%98%B2%E5%BB%BA%E8%AE%BE%E3%80%8D/%E5%B0%8F%E7%B1%B3%E4%BC%81%E4%B8%9A%E8%93%9D%E5%86%9B%E4%B8%8E%E5%AE%89%E5%85%A8%E5%BB%BA%E8%AE%BE.pdf.pdf)
+      -[小米企业蓝军与安全建设.pdf](https://github.com/Mount4in/Security-Conference-Topic/blob/main/%E7%AC%AC%E5%85%AB%E6%9C%9F%E5%AE%89%E5%85%A8%E8%8C%83%E5%84%BF%E6%B2%99%E9%BE%99%E3%80%8C%E7%94%B2%E6%96%B9%E5%AE%89%E5%85%A8%E6%94%BB%E9%98%B2%E5%BB%BA%E8%AE%BE%E3%80%8D/%E5%B0%8F%E7%B1%B3%E4%BC%81%E4%B8%9A%E8%93%9D%E5%86%9B%E4%B8%8E%E5%AE%89%E5%85%A8%E5%BB%BA%E8%AE%BE.pdf.pdf)
 
+## 3 2023
 
+### 3.1 第九期字节跳动“安全范儿”技术沙龙「甲方业务安全实战」
+
+- [欧阳鹏-业务安全建设之WAF实战](https://bytedance.feishu.cn/file/WTlub00YxoMuPQxVzZxc9sJunNf)
+- [杨鹏-微软现代化智能多云业务安全实践](https://bytedance.feishu.cn/file/M8b9bXTx5oTCUBxbFricCNczn0g)
+- [郑洋-以攻促防-通过攻击视角评估业务安全](https://bytedance.feishu.cn/file/OrKcbECLnoePQuxXfvrcbHo1n3d)
 
 **References**
+
 > https://www.hackinn.com/
 
 > https://www.kanxue.com/ 
