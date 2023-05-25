@@ -74,6 +74,39 @@
 - [杨鹏-微软现代化智能多云业务安全实践](https://bytedance.feishu.cn/file/M8b9bXTx5oTCUBxbFricCNczn0g)
 - [郑洋-以攻促防-通过攻击视角评估业务安全](https://bytedance.feishu.cn/file/OrKcbECLnoePQuxXfvrcbHo1n3d)
 
+### 3.2 2023 BlackHat Asia
+
+- [firmWar-An-Imminent-Threat-to-the-Foundation-of-Computing](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [Stealthy-Sensitive-Information-Collection-from-Android-Apps](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [Attacking-WebAssembly-Compiler-of-Webkit](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [New-Wine-in-an-Old-Bottle-Attacking-Chrome-WebSQL](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [Operation-Clairvoyance-How-APT-Groups-Spy-on-the-Media-Industry](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [PMFault](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [A-Run-a-Day-Wont-Keep-the-Hacker-Away](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [Cloudy-With-a-Chance-of-Exploits](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [Breaking-the-Chain](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [Dirty-Bin-Cache-A-New-Code-Injection-Poisoning-Binary-Translation-Cache](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [PPLdump-Is-Dead-Long-Live-PPLdump](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [Grand-Theft-House-RF-Lock-Pick-Tool-to-Unlock-Smart-Door-Lock](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [Phoenix-Domain-Attack](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [Fuzzing-the-Native-NTFS-Read-Write-Driver](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [Insider-Threats-Packing-Their-Bags-With-Corporate-Data](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [Alice-In-Kernel-Land](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [Emit-My-Keystroke](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [Hand-Me-Your-Secret-MCU](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [Weaponizing-mobile-Infrastructure](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [Prototype-Pollution-Leads-to-RCE](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [You-Can-Run-But-You-Cant-Hide](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [Dirty-Stream-Attack-Turning-Android](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [Sweet-Dreams-Abusing-Sleep-Mode-to-Break-Wi-Fi-Encryption-and-Disrupt-WPA23-Networks](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [Leveraging-Streaming-Based-Outlier-Detection](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [Two-bugs-with-one-PoC-Rooting-Pixel-6-from-Android-12-to-Android-13](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [Nakatomi-Space](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [Knowledge-Graph-Meets-TTPs-Highly-Automated-and-Adaptive-Executable-TTP-Intelligence-for-Security-Evaluation](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [Dilemma-In-IoT-Access-Control](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [Security-Advocacy-Shouldnt-Be-For-Security-Professionals](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+- [A-new-attack-interface-in-Java](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
+
 **References**
 
 > https://www.hackinn.com/
@@ -81,3 +114,5 @@
 > https://www.kanxue.com/ 
 
 > https://mp.weixin.qq.com/s/Nx6nlcyeka0knWOYuzFWGg
+
+> https://mp.weixin.qq.com/s/vh_gqpEKOWUvfXQo67RdiA
