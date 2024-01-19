@@ -107,6 +107,46 @@
 - [Security-Advocacy-Shouldnt-Be-For-Security-Professionals](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
 - [A-new-attack-interface-in-Java](https://github.com/Mount4in/Security-Conference-Topic/tree/main/2023%20BlackHat%20Asia)
 
+### 3.3 2023FCIS
+
+- 刘歆轶-AIGC安全审计框架初探
+- m0sway_“攻击面管理”赋能安全运营
+- 红队反溯源与安全线路建设-SkyMine
+- 韦伟_vArmor-云原生安全加固实战
+- 陈圣-寄递行业数据安全及个人信息保护安全体系落地实践
+- 多视角下的Rsync协议攻击防御-paperpen
+- 孙琦 生成式AI和信息安全
+- 王皓 探索大模型的数据边界
+- Fuzzing的艺术-麦香
+- 张佳发-网络战争场景下的事前防御思考
+- AI时代大模型安全分析-郭建新
+- 陈幸幸-让数据说话
+- 陈亮_多云安全：实现统一、高效、可信赖的防护
+- 陈晓霖-供应链安全管理模式探索与发展
+- 国产操作系统漏洞研究_阮奂斌
+- Nicky_大模型时代下蓝军攻防实践
+- 攻防演练中的漏洞利用分享-大余
+- 王忠惠-基于供应商安全能力考核的供应商评估体系
+- 字节跳动多云架构下的安全运营实践之路-刘森
+- 刘津铭-从源头预防_移动终端软件供应链安全治理探讨
+- 从0开始设计webshell管理工具—张兆伟
+- 国产化渗透测试框架的思考与实践-VK
+- Holger Petersen_AI在企业内部的机遇与挑战
+- 从实战看红队进攻技巧-陈殷
+- 熊春霖_Knowledge is all you need
+- 如何在src中挖掘高危漏洞-钟北山
+- 吴永佳_金融企业内部以攻促防探索与实践
+
+### 3.3 37C3
+
+- NEW IMPORTANT INSTRUCTIONS REAL WORLD EXPLOITS AND MITIGATIONS
+- Your Teammate Isnt Human - Mixing Decompilation and AI for Modern Reverse Engineering
+
+### 3.4 2023 BlackHat USA
+
+- Cookie Crumbles: Unveiling Web Session Integrity Vulnerabilities
+- Smashing the State Machine: The True Potential of Web Race Conditions
+
 **References**
 
 > https://www.hackinn.com/
