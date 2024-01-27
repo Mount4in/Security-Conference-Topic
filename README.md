@@ -66,6 +66,28 @@
    - [生产环境的 Kubernetes 攻击与防护](https://github.com/Mount4in/Security-Conference-Topic/blob/main/%E7%AC%AC%E5%85%AB%E6%9C%9F%E5%AE%89%E5%85%A8%E8%8C%83%E5%84%BF%E6%B2%99%E9%BE%99%E3%80%8C%E7%94%B2%E6%96%B9%E5%AE%89%E5%85%A8%E6%94%BB%E9%98%B2%E5%BB%BA%E8%AE%BE%E3%80%8D/%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E7%9A%84%20Kubernetes%20%E6%94%BB%E5%87%BB%E4%B8%8E%E9%98%B2%E6%8A%A4.pdf) 
       -[小米企业蓝军与安全建设.pdf](https://github.com/Mount4in/Security-Conference-Topic/blob/main/%E7%AC%AC%E5%85%AB%E6%9C%9F%E5%AE%89%E5%85%A8%E8%8C%83%E5%84%BF%E6%B2%99%E9%BE%99%E3%80%8C%E7%94%B2%E6%96%B9%E5%AE%89%E5%85%A8%E6%94%BB%E9%98%B2%E5%BB%BA%E8%AE%BE%E3%80%8D/%E5%B0%8F%E7%B1%B3%E4%BC%81%E4%B8%9A%E8%93%9D%E5%86%9B%E4%B8%8E%E5%AE%89%E5%85%A8%E5%BB%BA%E8%AE%BE.pdf.pdf)
 
+### 2.6 2022Kcon
+
+ - Hacking JSON
+ - Magic in RASP-attack and defense
+ - tabby java code review like a pro
+ - Where’s My Session Pool
+ - 击败SOTA反混淆方法
+ - 名侦探的下午茶：Hunting with Provenance
+ - 如何从 defi 中捡钱-智能合约安全代码审计
+ - 智能WEB安全攻击系统
+ - 有关Web3与DID的思考-资金追溯和地址画像的区块链安全应用
+ - 构建可审计的公有云安全环境
+ - 浅谈零信任环境下攻击场景
+ - 自动化API漏洞Fuzz实战
+ - 解锁工控设备固件提取的各类方法
+ - 返璞归真-重识物理安全与近源渗透
+ - 进退维谷：runC的阿克琉斯之踵
+
+### 2.7 2022补天白帽大会
+
+- Java Webshell攻防下的黑魔法
+
 ## 3 2023
 
 ### 3.1 第九期字节跳动“安全范儿”技术沙龙「甲方业务安全实战」
@@ -137,15 +159,76 @@
 - 如何在src中挖掘高危漏洞-钟北山
 - 吴永佳_金融企业内部以攻促防探索与实践
 
-### 3.3 37C3
+### 3.4 37C3
 
 - NEW IMPORTANT INSTRUCTIONS REAL WORLD EXPLOITS AND MITIGATIONS
+
 - Your Teammate Isnt Human - Mixing Decompilation and AI for Modern Reverse Engineering
+
+  
 
 ### 3.4 2023 BlackHat USA
 
 - Cookie Crumbles: Unveiling Web Session Integrity Vulnerabilities
 - Smashing the State Machine: The True Potential of Web Race Conditions
+- CodeQL: Also a Powerful Binary Analysis Engine
+ - When a Zero Day and Access Keys Collide in the Cloud: Responding to the SugarCRM 0-Day Vulnerability
+
+ - Evading Logging in the Cloud: Bypassing AWS CloudTrail
+
+ - One Drive, Double Agent: Clouded OneDrive Turns Sides
+
+ - Uncovering Azure's Silent Threats: A Journey into Cloud Vulnerabilities
+
+   - https://www.trendmicro.com/vinfo/ie/security/news/cybercrime-and-digital-threats/uncovering-silent-threats-in-azure-machine-learning-service-part-I
+
+     存储账号符号的主密钥明文记录在文件中、AML账号的JWT作为get参数记录在nginx的访问日志中
+
+   - https://www.trendmicro.com/vinfo/de/security/news/cybercrime-and-digital-threats/uncovering-silent-threats-in-azure-machine-learning-service-part-2
+
+ - All You Need is Guest
+
+ - Identifying and Reducing Permission Explosion in AWS: A Graph-Based and Analytical Approach
+
+ - BingBang: Hacking Bing.com (and much more) with Azure Active Directory
+
+   - https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration
+
+### 3.5 2023 BlackHat EU
+
+- EU-23-Nassi-IndirectPromptInjection
+ - EU-23-Wang-HODOR-Reducing-Attack-Surface-on
+ - Hiding in the Clouds: Abusing Azure DevOps Services to Bypass Microsoft Sentinel Analytic Rules
+ - Breaking Theoretical Limits: The Gap Between Virtual NICs and Physical Network Cards
+ - Breaching the Perimeter via Cloud Synchronized Browser Settings
+
+### 3.6 先知安全沙龙-长沙站
+
+- AI时代：阿里云大模型攻防实践
+- Web3.0: 安全与隐私挑战
+- 我的白帽之旅 ---从 CTFer 到技术能手
+- 攻防演练之防守溯源思路
+- 基于QEMU的通用化模糊测试框架探索与实践
+
+### 3.7 2023KCon
+
+ - AI纪元-新视角下的企业蓝军.pdf
+ - CICD攻击场景.pdf
+ - Java表达式攻防下的黑魔法-release.pdf
+ - Magic In Java Api.pdf
+ - Modern Linux sandboxing technology_kcon_v1.pdf
+ - Recent Progresses in Transfer-based Attack for Image Recognition.pdf
+ - SxS also stands for Specter by Side.pdf
+ - Tai-e- 基于程序分析的安全漏洞检测框架  .pdf
+ - WebLogic 漏洞挖掘思路.pdf
+ - vSphere 攻防技法分享.pdf
+ - 从 0 到 1 打造云原生容器沙箱 vArmor_2023.08.17.pdf
+ - 低功耗蓝牙黑客：从数字逃逸到现实.pdf
+ - 内窥镜-反混淆虚拟化加固的安卓程序-更新.pdf
+ - 梅赛德斯奔驰车机安全研究.pdf
+ - 移动人脸识别安全攻防对抗之旅.pdf
+ - 近源攻击的安全研究思路分享.pdf
+ - 闭源系统下的漏洞自动化发现之旅.pdf
 
 **References**
 
